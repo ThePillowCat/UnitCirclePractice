@@ -46,8 +46,8 @@ font.init()
 font1 = font.SysFont("Calibri", 50)
 font2 = font.SysFont("Calibri", 75)
 
-rad = 0
-deg = 0
+rad = 1
+deg = 1
 scr = "Start!"
 
 while running:
